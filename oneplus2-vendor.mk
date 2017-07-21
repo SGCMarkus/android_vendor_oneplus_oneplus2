@@ -532,3 +532,14 @@ PRODUCT_PACKAGES += \
     qcnvitems \
     qcrilhook \
     pp_calib_data_jd35695_1080p_cmd_mode_dsi_panel
+
+# OnePlus Camera
+PRODUCT_PACKAGES += \
+    libfilter-sdk \
+    libopcameralib \
+    libopbaselib \
+    lib-imscamera \
+    libimscamera_jni \
+    libimsmedia_jni \
+    secure_camera_sample_client \
+    OnePlusCamera
