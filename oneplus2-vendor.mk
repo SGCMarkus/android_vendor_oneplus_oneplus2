@@ -533,8 +533,6 @@ PRODUCT_PACKAGES += \
     qcrilhook \
     pp_calib_data_jd35695_1080p_cmd_mode_dsi_panel
 
-include vendor/oneplus/oneplus2/OxygenOSCamera.mk
-
 # OnePlus Camera
 PRODUCT_PACKAGES += \
     libfilter-sdk \
